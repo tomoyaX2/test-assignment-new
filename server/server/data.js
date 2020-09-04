@@ -7,7 +7,7 @@ var data = [
         "name": "Damage Reverse Oil Conditioner",
         "about": "Dolor voluptate velit consequat duis. Aute ad officia fugiat esse anim exercitation voluptate excepteur pariatur sit culpa duis qui esse. Labore amet ad eu veniam nostrud minim labore aliquip est sint voluptate nostrud reprehenderit. Ipsum nostrud culpa consequat reprehenderit.",
         "tags": [
-            "ojon", 
+            "ojon",
             "oil",
             "conditioner"
         ]
@@ -84,7 +84,7 @@ var data = [
             "ojon",
             "treatment"
         ]
-    }, 
+    },
     {
         "_id": "008",
         "isActive": "true",
@@ -96,7 +96,7 @@ var data = [
             "ojon",
             "conditioner"
         ]
-    }, 
+    },
     {
         "_id": "009",
         "isActive": "true",
@@ -109,7 +109,7 @@ var data = [
             "oil",
             "rare blend"
         ]
-    }, 
+    },
     {
         "_id": "010",
         "isActive": "true",
@@ -122,7 +122,7 @@ var data = [
             "hydrating",
             "shampoo"
         ]
-    }, 
+    },
     {
         "_id": "011",
         "isActive": "true",
@@ -135,7 +135,7 @@ var data = [
             "hydrating",
             "conditioner"
         ]
-    }, 
+    },
     {
         "_id": "012",
         "isActive": "true",
@@ -148,7 +148,7 @@ var data = [
             "conditioner",
             "rare blend"
         ]
-    }, 
+    },
     {
         "_id": "013",
         "isActive": "true",
@@ -162,7 +162,7 @@ var data = [
             "conditioner",
             "rare blend"
         ]
-    }, 
+    },
     {
         "_id": "014",
         "isActive": "true",
@@ -175,7 +175,7 @@ var data = [
             "treatment",
             "rare blend"
         ]
-    }, 
+    },
     {
         "_id": "015",
         "isActive": "true",
@@ -188,7 +188,7 @@ var data = [
             "oil",
             "rare blend"
         ]
-    }, 
+    },
     {
         "_id": "016",
         "isActive": "false",
@@ -200,7 +200,7 @@ var data = [
             "ojon",
             "treatment"
         ]
-    }, 
+    },
     {
         "_id": "017",
         "isActive": "true",
@@ -213,7 +213,7 @@ var data = [
             "shampoo",
             "rare blend"
         ]
-    }, 
+    },
     {
         "_id": "018",
         "isActive": "true",
@@ -225,7 +225,7 @@ var data = [
             "ojon",
             "shampoo"
         ]
-    }, 
+    },
     {
         "_id": "019",
         "isActive": "false",
@@ -237,7 +237,7 @@ var data = [
             "ojon",
             "conditioner"
         ]
-    }, 
+    },
     {
         "_id": "020",
         "isActive": "false",
